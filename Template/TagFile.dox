@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='ISO-8859-1' standalone='yes'?>
+<tagfile>
+  <compound kind="file">
+    <name>CVS_doxygen.c</name>
+    <path>S:/OpenSource/AVR/Template/</path>
+    <filename>_c_v_s__doxygen_8c</filename>
+    <includes id="_c_v_s__doxygen_8h" name="CVS_doxygen.h" local="yes" imported="no">CVS_doxygen.h</includes>
+  </compound>
+  <compound kind="file">
+    <name>CVS_doxygen.h</name>
+    <path>S:/OpenSource/AVR/Template/</path>
+    <filename>_c_v_s__doxygen_8h</filename>
+  </compound>
+  <compound kind="dir">
+    <name>Template/</name>
+    <path>S:/OpenSource/AVR/Template/</path>
+    <filename>dir_000000.html</filename>
+    <file>CVS_doxygen.asm</file>
+    <file>CVS_doxygen.c</file>
+    <file>CVS_doxygen.h</file>
+    <file>CVS_doxygen.inc</file>
+  </compound>
+</tagfile>
